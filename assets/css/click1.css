@@ -1,0 +1,215 @@
+body{
+	width: 100%; 
+	margin: 0;
+	background-color: rgb(20,40,92);
+  text-align: center;
+  -ms-overflow-style: none;
+  display: flex;
+	}
+
+
+  .header {
+    background-color: white;
+    width: 100%;
+    height: 100px;
+    color: rgb(20,40,92);
+    text-align:middle;
+    font-size: 2.5em; 
+    text-transform: uppercase;
+    letter-spacing: .1em;
+    margin-bottom: 0;
+    font-family: Futura, Helvetica, sans-serif; 
+    position: fixed;
+    text-decoration: none;
+  }
+
+  .info {
+    color: white;
+    text-align: middle;
+    padding-top: 20%;
+    padding-left: 45%;
+    padding-right: 50%;
+    letter-spacing: 0.1em;
+    font-size: 2.5em;
+    cursor: e-resize;
+  }
+
+section{
+  --scroll-padding-top: 6rem;
+  
+	width: 100%; 
+	height: 100vh; 
+	height: 100dvh; 
+  
+	background-position: center calc(50% + var(--scroll-padding-top));
+	background-attachment: fixed; 
+	background-repeat: no-repeat;
+  flex:none;
+
+  cursor: e-resize;
+	}
+	
+  
+#a1{
+  background-image: url(../images/click1/a1.jpg);
+  background-size: 30%;
+  transition: 0.1s;
+}
+#a1:hover{
+  background-image: url(../images/a/a1.png);
+}
+
+#a2{
+  background-image: url(../images/click1/a2.jpg);
+  background-size: 30%;
+  transition: 0.1s;
+}
+#a2:hover{
+  background-image: url(../images/a/a2.png);
+}
+
+#a3{
+  background-image: url(../images/click1/a3.jpg);
+  background-size: 30%;
+  transition: 0.1s;
+}
+#a3:hover{
+  background-image: url(../images/a/a3.png);
+}
+
+#a4{
+  background-image: url(../images/click1/a4.jpg);
+  background-size: 30%;
+  transition: 0.1s;
+}
+#a4:hover{
+  background-image: url(../images/a/a4.png);
+}
+
+#a5{
+  background-image:url(../images/click1/a5.jpg); 
+  background-size: 30%;   
+  transition: 0.1s;             
+}
+#a5:hover{
+  background-image: url(../images/a/a5.png);
+}
+
+#a6{
+  background-image:url(../images/click1/a6.jpg);
+  background-size: 30%;  
+  transition: 0.1s;   
+}
+#a6:hover{
+  background-image: url(../images/a/a6.png);
+}
+
+#a7{
+  background-image:url(../images/click1/a7.jpg);
+  background-size: 30%;
+  transition: 0.1s;   
+}
+#a7:hover{
+  background-image: url(../images/a/a7.png);
+}
+
+#a8{
+  background-image:url(../images/click1/a8.jpg);
+  background-size: 30%;
+  transition: 0.1s;   
+}
+#a8:hover{
+  background-image: url(../images/a/a8.png);
+}
+
+#a9{
+  background-image:url(../images/click1/a9.jpg);
+  background-size: 30%;
+  transition: 0.1s;   
+}
+#a9:hover{
+  background-image: url(../images/a/a9.png);
+}
+
+#a10{
+  background-image: url(../images/click1/a10.jpg);
+  background-size: 30%;
+  transition: 0.1s;   
+}
+#a10:hover{
+  background-image: url(../images/a/a10.png);
+}
+
+#a11{
+  background-image: url(../images/click1/a11.jpg);
+  background-size: 30%;
+  transition: 0.1s;   
+}
+#a11:hover{
+  background-image: url(../images/a/a11.png);
+}
+
+#a12{
+  background-image: url(../images/click1/a12.jpg);
+  background-size: 30%;
+  transition: 0.1s;   
+}
+#a12:hover{
+  background-image: url(../images/a/a12.png);
+}
+
+#a13{
+  background-image: url(../images/click1/a13.jpg);
+  background-size: 30%;
+  transition: 0.1s;   
+}
+#a13:hover{
+  background-image: url(../images/a/a13.png);
+}
+
+#a14{
+  background-image: url(../images/click1/a14.jpg);
+  background-size: 30%;
+  transition: 0.1s;   
+}
+#a14:hover{
+  background-image: url(../images/a/a14.png);
+}
+
+#a15{
+  background-image: url(../images/click1/a15.jpg);
+  background-size: 30%;
+  transition: 0.1s;   
+}
+#a15:hover{
+  background-image: url(../images/a/a15.png);
+}
+
+#a16{
+  background-image: url(../images/click1/a16.jpg);
+  background-size: 30%;
+  transition: 0.1s;   
+}
+#a16:hover{
+  background-image: url(../images/a/a16.png);
+}
+
+#a17{
+  background-image: url(../images/click1/a17.jpg);
+  background-size: 30%;
+  transition: 0.1s;   
+}
+#a17:hover{
+  background-image: url(../images/a/a17.png);
+}
+
+#a18{
+  background-image: url(../images/click1/a18.jpg);
+  background-size: 30%;
+  transition: 0.1s;   
+}
+#a18:hover{
+  background-image: url(../images/a/a18.png);
+}
+
+ 
